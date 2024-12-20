@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\N R RAVI\\Desktop\\Masters\\Fall-24\\ISTM-637\\Project\\SSAS\\BQ1-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA1EF87-A2D1-4336-9794-D8C8807F6DB2}|BQ1-1\\BQ1-1.dwproj|C:\\Users\\N R RAVI\\Desktop\\Masters\\Fall-24\\ISTM-637\\Project\\SSAS\\BQ1-1\\BQ1-1\\601 Grp4 Category Sales DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DAA1EF87-A2D1-4336-9794-D8C8807F6DB2}|BQ1-1\\BQ1-1.dwproj|solutionrelative:BQ1-1\\601 Grp4 Category Sales DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "601 Grp4 Category Sales DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\N R RAVI\\Desktop\\Masters\\Fall-24\\ISTM-637\\Project\\SSAS\\BQ1-1\\BQ1-1\\601 Grp4 Category Sales DW.cube",
+              "RelativeDocumentMoniker": "BQ1-1\\601 Grp4 Category Sales DW.cube",
+              "ToolTip": "C:\\Users\\N R RAVI\\Desktop\\Masters\\Fall-24\\ISTM-637\\Project\\SSAS\\BQ1-1\\BQ1-1\\601 Grp4 Category Sales DW.cube [Design]",
+              "RelativeToolTip": "BQ1-1\\601 Grp4 Category Sales DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-02T06:29:03.332Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
